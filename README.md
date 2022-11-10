@@ -1,11 +1,12 @@
-# Scrape_Reviews
+# Web harvesting
 
-Scrape Names of the customers,Rating given to the product,Cost of the product,Long and short Reviews of products of  a particular interest from amazon.it
+This app scraps user reviews and ratings from a retail website like amazon.it and generates a word-cloud with CSV data which is available for download. This could be a way to showcase a buyer that what in general other consumers are feeling about the queried product.
 
+Scrape Names of the customers,Rating given to the product,Cost of the product,Long and short Reviews of products of  a particular interest.
 
 Steps:
 
-1) Initally, Clone the project into your local respository and install the requirements.txt file.
+1) Initally, install the requirements.txt file in your project repository.
 
 2) Then run the app.py in your IDE and then click on the IP address that appears in the terminal.
 
